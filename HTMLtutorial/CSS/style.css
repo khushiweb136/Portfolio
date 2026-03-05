@@ -1,0 +1,10 @@
+h2{
+    text-align:start;
+    /* text-align: center; */
+    background-color: burlywood;
+}
+
+.myclass{
+    color:aquamarine;
+    background-color: blueviolet;
+}
